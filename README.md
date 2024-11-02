@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Lavinia, and I'm an undergraduate computer science student at UCLA!
+
 <!--
 **lavinialei2/lavinialei2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
